@@ -1,0 +1,20 @@
+comando do banco de dados
+
+phpmyadmin
+
+sudo systemctl start mysql
+sudo systemctl stop mysql
+sudo systemctl restart mysql
+
+postgre
+
+sudo systemctl start postgresql
+sudo systemctl stop postgresql
+sudo systemctl restart postgresql
+
+
+
+psql -h localhost -U root -d postgres
+
+
+
